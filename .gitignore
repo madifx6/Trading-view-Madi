@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+.env
+.env.local
